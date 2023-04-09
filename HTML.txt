@@ -1,0 +1,17 @@
+html: hyper text nark nof language
+it describes the str of webpage
+
+
+basic structure of html:
+<!Doctype HTML>
+
+<p> paragraph lekhna 
+<pre> extra line use garna
+
+comments in html
+<!-- -->
+
+
+https is secure, encrypted form ma hunxa, ssh certificate hunxa 
+http is unsecure, decode garn asajilo hunxa
+
