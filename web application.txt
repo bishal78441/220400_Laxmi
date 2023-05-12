@@ -1,0 +1,17 @@
+website: collection of web pages and media over internet
+
+types:
+static: stg use static eleemnts, css html
+dynamic: some inv of backent, eg database, sports website
+
+ 
+
+get: resource get
+post: 
+patch/put: update
+delete:
+
+W3c: world wide web consortisum
+
+github:
+ ssh-keygen -t ed25519 -C "your_email@example.com"

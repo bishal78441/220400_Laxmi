@@ -1,0 +1,9 @@
+--> typography:-
+	
+	
+--> gradient: colour trnsition smooth banaidinxa
+
+	linear gradient: 
+	
+	
+css-media query and css grid system aafai padhni topic
