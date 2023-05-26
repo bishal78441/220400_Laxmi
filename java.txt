@@ -1,0 +1,12 @@
+javascript:- until 2019, it was called front-end, froncompile hudYyna interprete hunxA
+	dymanic banauna use garxum, 
+	
+
+Data Types:- stored in double quotetion
+var name = "bishal";
+
+number aauta typed ko matra hunxa 100,99.99
+booleans: two value true or false
+
+-->operators:-
+ 
